@@ -88,6 +88,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
+  margin-top: 40px;
   transform: translate(-50%, -50%);
   height: 400px;
   padding: 180px;
